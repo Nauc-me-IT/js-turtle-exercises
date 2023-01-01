@@ -1,0 +1,16 @@
+/*
+Nakresli domeček!
+
+Použitím příkazů
+ -  forward(steps) - jdi dopředu určitý počet kroků
+ -  right(angle) - zatoč doprava pod určitým úhlem
+nakresli domeček, který se skládá ze čtverce a trojúhelníku. Polygony mají hranu 100.
+
+Uděláš to jednoduše. Doplň obecnou funkci polygon a uprav její použití.
+*/
+
+function polygon(n) {}
+
+polygon(4);
+right(30);
+polygon(3);
