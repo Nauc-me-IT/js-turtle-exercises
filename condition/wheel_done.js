@@ -1,9 +1,9 @@
-const polygon = function (n, length) {
+function polygon(n, length) {
   for (let i = 0; i < n; i++) {
     forward(length);
     right(360 / n);
   }
-};
+}
 
 for (let i = 0; i < 12; i++) {
   if (i % 2 == 0) {
