@@ -1,7 +1,3 @@
-setSpeed(200);
-width(3);
-color('blue');
-
 ('use strict');
 
 const defaultOptions = {
@@ -11,7 +7,7 @@ const defaultOptions = {
   aaColor: [255, 255, 0], // color of anti-aliased pixels in diff output
   diffColor: [255, 0, 0], // color of different pixels in diff output
   diffColorAlt: null, // whether to detect dark on light differences between img1 and img2 and set an alternative color to differentiate between the two
-  diffMask: false, // draw the diff over a transparent background (a mask)
+  diffMask: true, // draw the diff over a transparent background (a mask)
 };
 
 window.pixelmatch = pixelmatch;
