@@ -44,3 +44,15 @@ h1 {
   font-weight: bold;
   font-size: 1.5rem;
 }
+
+#turtlecanvas {
+  border: 1px solid green
+}
+
+#rescanvas {
+  border: 1px solid blue
+}
+
+#diffcanvas {
+  border: 1px solid black
+}
