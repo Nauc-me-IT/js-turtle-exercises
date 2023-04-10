@@ -9,6 +9,6 @@ Použitím příkazů
 Uděláš to jednoduše. Vytvoř nejprve kód, který vytváří dvanáctiúhelník a poté ho 12x zopakuj.
 */
 
-for (let i = 12; i > 0; i++) {
+for (let i = 0; i < 12; i++) {
   right(30);
 }

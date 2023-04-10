@@ -10,6 +10,6 @@ Použitím příkazů
  Uděláš to jednoduše. Uprav for cyklus. 
 */
 
-for (let i = 1; i > 5; i++) {
+for (let i = 0; i > 6; i++) {
   forward(30);
 }

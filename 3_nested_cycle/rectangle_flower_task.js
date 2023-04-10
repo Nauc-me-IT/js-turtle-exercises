@@ -9,7 +9,7 @@ Použitím příkazů
 Uděláš to jednoduše. Uprav kód for cyklů.
 */
 
-for (let i = 8; i > 0; i++) {
+for (let i = 0; i < 8; i++) {
   for (let j = 0; j < 2; j++) {
     forward(25);
     right(80);

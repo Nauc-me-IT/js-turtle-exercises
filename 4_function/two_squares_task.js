@@ -12,3 +12,5 @@ Uděláš to jednoduše. Doplň funkci square a použij ji.
 function square(length) {}
 
 square(100);
+forward(50);
+right(90);

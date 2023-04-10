@@ -9,7 +9,11 @@ nakresli domeček, který se skládá ze čtverce a trojúhelníku. Polygony maj
 Uděláš to jednoduše. Doplň obecnou funkci polygon a uprav její použití.
 */
 
-function polygon(n) {}
+function polygon(n) {
+  for (let i = 0; i < n; i++) {
+    right();
+  }
+}
 
 polygon(4);
 right(30);

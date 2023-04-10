@@ -10,4 +10,4 @@ Uděláš to jednoduše. Obal následující dva příkazy for cyklem a uprav ji
 */
 
 forward(10);
-right(66);
+right(120);

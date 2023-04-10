@@ -10,7 +10,7 @@ Uděláš to jednoduše. Doplň obecnou funkci polygon, která bere paramater n 
 */
 
 function polygon(n, length) {
-  for (let i = 0; i < n; i--) {
+  for (let i = 0; i < n; i++) {
     right(360 / 5);
   }
 }

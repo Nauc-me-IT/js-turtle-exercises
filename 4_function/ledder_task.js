@@ -11,7 +11,7 @@ Uděláš to jednoduše. Doplň funkci square a oprav for cylkus.
 
 function square(length) {}
 
-for (let i = 0; ; ) {
+for (let i = 0; i < 5; i++) {
   square(50);
   forward(50);
 }

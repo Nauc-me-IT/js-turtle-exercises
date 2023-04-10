@@ -10,7 +10,7 @@ Uděláš to jednoduše. Oprav funkci square a doplň for cyklus.
 */
 
 function square(length) {
-  for (let i = 0; i < 5; i--) {
+  for (let i = 0; i < 4; i++) {
     forward(length);
     right(1200);
   }

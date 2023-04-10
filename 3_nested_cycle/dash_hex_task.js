@@ -11,4 +11,6 @@ Nakresli šestiúhelník. Každá hrana je čárkovaná a skládá se z 6 deseti
 Uděláš to jednoduše. Vytvoř nejprve kód, který vytváří přerušovanou čáru a poté s její pomocí vytvoř šestiúhelník.
 */
 
-for (let i = 0; i < 6; i++) {}
+for (let i = 0; i < 6; i++) {
+    for (let j = 0; j < 6; j++) {}
+}

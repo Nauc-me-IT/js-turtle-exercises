@@ -9,7 +9,7 @@ nakresli domeček, který se skládá ze čtverce a trojúhelníkové střechy. 
 Uděláš to jednoduše. Uprav for cyklus a přidej ještě jeden.
 */
 
-for (let i = 4; i > 0; i++) {
+for (let i = 4; i < 0; i++) {
   forward(100);
   right(60);
 }

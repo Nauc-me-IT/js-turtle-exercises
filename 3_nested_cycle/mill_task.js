@@ -9,4 +9,7 @@ Použitím příkazů
 Uděláš to jednoduše. Vytvoř nejprve kód, který vytváří obdélník a poté ho 4x opakuj.
 */
 
-right(90);
+for (let i = 0; i < 4; i++) {
+  for (let j = 0; j < 2; j++) {}
+  right(90);
+}
