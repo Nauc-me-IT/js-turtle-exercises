@@ -6,7 +6,8 @@ Použitím příkazů
  -  right(angle) - zatoč doprava pod určitým úhlem
 nakresli šestiúhelník o hraně 100 kroků.
 
-Uděláš to jednoduše. Zjednoduš následující příklad. Místo hory příkazů napiš for cyklus.
+Uděláš to jednoduše. Zjednoduš následující příklad.
+Místo hory příkazů napiš for cyklus.
 */
 
 forward(100);

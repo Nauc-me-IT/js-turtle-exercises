@@ -4,7 +4,8 @@ Nakresli kytičku!
 Použitím příkazů
  -  forward(steps) - jdi dopředu určitý počet kroků
  -  right(angle) - zatoč doprava pod určitým úhlem
- nakresli kytičku. Kytička se skládá z obdélníků, které opisují 8-úhelník. Kratší strana obdélníku má 25 kroků, delší 100.  
+ nakresli kytičku. Kytička se skládá z obdélníků, které
+ opisují 8-úhelník. Kratší strana obdélníku má 25 kroků, delší 100.  
 
 Uděláš to jednoduše. Uprav kód for cyklů.
 */

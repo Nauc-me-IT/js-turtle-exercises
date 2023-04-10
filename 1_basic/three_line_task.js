@@ -7,7 +7,8 @@ Použitím příkazů
  -  left(angle)  - zatoč doleva pod určitým úhlem
  -  penUp() - zvedni tužku
  -  penDown() - polož tužku
- nakresli tři čáry po sobě |||. Čára má délku 80 kroků. Mezi čárami je 20 kroků.
+ nakresli tři čáry po sobě |||. Čára má délku 80 kroků.
+ Mezi čárami je 20 kroků.
 
  Uděláš to jednoduše. Přidej další příkazy za první.
 */

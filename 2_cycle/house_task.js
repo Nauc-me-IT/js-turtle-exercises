@@ -4,7 +4,8 @@ Nakresli domeček!
 Použitím příkazů
  -  forward(steps) - jdi dopředu určitý počet kroků
  -  right(angle) - zatoč doprava pod určitým úhlem
-nakresli domeček, který se skládá ze čtverce a trojúhelníkové střechy. Obojí má hrany 100 kroků.
+nakresli domeček, který se skládá ze čtverce a trojúhelníkové
+střechy. Obojí má hrany 100 kroků.
 
 Uděláš to jednoduše. Uprav for cyklus a přidej ještě jeden.
 */
