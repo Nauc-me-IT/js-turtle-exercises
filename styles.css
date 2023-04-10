@@ -50,13 +50,13 @@ canvas {
 }
 
 #turtlecanvas {
-  border: 2px solid green
+  border: 2px solid limegreen;
 }
 
 #rescanvas {
-  border: 2px solid blue
+  border: 2px solid blue;
 }
 
 #diffcanvas {
-  border: 2px solid black
+  border: 2px solid black;
 }
