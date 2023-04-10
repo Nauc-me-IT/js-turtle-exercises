@@ -6,11 +6,11 @@ Použitím příkazů
  -  right(angle) - zatoč doprava pod určitým úhlem
  nakresli 4 polygony. První bude trojúhelník, další čtverec,
  pětiúhelník a poslední šestiúhelník. Všechny budou
- o hraně 100 kroků. 
+ o hraně 50 kroků. 
 
 Uděláš to jednoduše. Doplň funkci polygon.
 */
 
 function polygon(n, length) {}
 
-polygon(3, 100);
+polygon(3, 50);

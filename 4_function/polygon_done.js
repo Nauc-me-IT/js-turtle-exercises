@@ -5,7 +5,7 @@ function polygon(n, length) {
   }
 }
 
-polygon(3, 100);
-polygon(4, 100);
-polygon(5, 100);
-polygon(6, 100);
+polygon(3, 50);
+polygon(4, 50);
+polygon(5, 50);
+polygon(6, 50);

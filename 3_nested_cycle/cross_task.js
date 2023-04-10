@@ -6,7 +6,7 @@ Použitím příkazů
  -  right(angle) - zatoč doprava pod určitým úhlem
  nakresli plus. Nebo si to představ jako ceduli, co visí
  nad lékárnami. Plus se skládá ze 4 opakujících se stejných
- motivů dokola. Hrany svírají 90 stupňů a mají 100 kroků.
+ motivů dokola. Hrany svírají 90 stupňů a mají 50 kroků.
 
 Uděláš to jednoduše. Přepiš opakující se motiv do for cyklu
 a obal to celé dalším for cyklem.

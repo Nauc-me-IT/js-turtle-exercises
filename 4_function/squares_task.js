@@ -5,7 +5,7 @@ Použitím příkazů
  -  forward(steps) - jdi dopředu určitý počet kroků
  -  right(angle) - zatoč doprava pod určitým úhlem
  nakresli 4 čtverce ve velkém čtverci. Malé čtverce mají
- hranu 50 kroků, velký 100 kroků. 
+ hranu 40 kroků, velký 120 kroků. 
 
 Uděláš to jednoduše. Oprav funkci square a doplň for cyklus.
 */

@@ -6,6 +6,6 @@ function square(length) {
 }
 
 for (let i = 0; i < 5; i++) {
-  square(50);
-  forward(50);
+  square(25);
+  forward(25);
 }

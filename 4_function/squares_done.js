@@ -6,7 +6,7 @@ function square(length) {
 }
 
 for (let i = 0; i < 4; i++) {
-  square(50);
-  forward(150);
+  square(40);
+  forward(120);
   right(90);
 }

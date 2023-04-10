@@ -7,12 +7,12 @@ Použitím příkazů
  -  penup() - zvedni tužku
  -  pendown() - polož tužku
 Nakresli šestiúhelník. Každá hrana je čárkovaná a skládá
-se z 6 desetikrokových čar, které jsou od sebe 10 kroků.
+se z 4 desetikrokových čar, které jsou od sebe 10 kroků.
 
 Uděláš to jednoduše. Vytvoř nejprve kód, který vytváří 
 přerušovanou čáru a poté s její pomocí vytvoř šestiúhelník.
 */
 
 for (let i = 0; i < 6; i++) {
-    for (let j = 0; j < 6; j++) {}
+  for (let j = 0; j < 4; j++) {}
 }
