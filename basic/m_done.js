@@ -1,7 +1,0 @@
-forward(100)
-right(135)
-forward(50)
-left(90)
-forward(50)
-right(135)
-forward(100)
