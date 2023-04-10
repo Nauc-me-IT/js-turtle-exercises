@@ -7,7 +7,7 @@ Použitím příkazů
  nakresli písmeno T. Nožička T má 100 kroků a ručičky 50 kroků.
 
  Uděláš to jednoduše. Přidej další příkazy za první. Nezapomeň,
- že když želvu otočíš o určitý úhel, tak může jít po svých krocích.
+ že když želvu otočíš o určitý úhel, tak může jít ve svých šlépějích.
 */
 
 forward(100);

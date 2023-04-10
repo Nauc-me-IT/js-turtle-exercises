@@ -8,7 +8,7 @@ Použitím příkazů
  o hraně 50 kroků.
 
 Uděláš to jednoduše. Uprav for cyklus pro vytvoření
-trojúhelníku a pak jeden přidej.
+trojúhelníku a pak nakonec přidej druhý for cyklus.
 */
 
 for (let i = 0; i < 3; i++) {

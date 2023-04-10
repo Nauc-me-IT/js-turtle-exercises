@@ -9,7 +9,7 @@ Použitím příkazů
  které opisují desetiúhelník. Trojúhelníky mají hranu 30 kroků.
 
 Uděláš to jednoduše. Vytvoř nejprve kód, který vytváří
-trojúhelník a poté obepiš desetiúhelník.
+trojúhelník a poté opiš desetiúhelník.
 */
 
 for (let i = 0; i < 10; i++) {
