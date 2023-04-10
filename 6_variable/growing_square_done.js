@@ -3,8 +3,8 @@ function square(length) {
     forward(length);
     right(90);
   }
-};
+}
 
 for (let i = 0; i < 10; i++) {
-  square(i * 30);
+  square(i * 15);
 }

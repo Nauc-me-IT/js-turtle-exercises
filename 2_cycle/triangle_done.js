@@ -1,4 +1,4 @@
 for (let i = 0; i < 3; i++) {
-  forward(200);
+  forward(100);
   right(120);
 }

@@ -6,7 +6,7 @@ Použitím příkazů
  -  right(angle) - zatoč doprava pod určitým úhlem
  -  left(angle) - zatoč doleva pod určitým úhlem
  nakresli kytičku. Kytička se skládá z 10 trojúhelníků,
- které opisují desetiúhelník. Trojúhelníky mají hranu 60 kroků.
+ které opisují desetiúhelník. Trojúhelníky mají hranu 30 kroků.
 
 Uděláš to jednoduše. Vytvoř nejprve kód, který vytváří
 trojúhelník a poté obepiš desetiúhelník.
