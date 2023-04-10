@@ -4,7 +4,7 @@ Nakresli žebřík!
 Použitím příkazů
  -  forward(steps) - jdi dopředu určitý počet kroků
  -  right(angle) - zatoč doprava pod určitým úhlem
- nakresli žebřík, který se skládá z pěti čtverců. 
+ nakresli žebřík, který se skládá z čtyř čtverců. 
 
 Uděláš to jednoduše. Doplň funkci square a oprav for cylkus. 
 */

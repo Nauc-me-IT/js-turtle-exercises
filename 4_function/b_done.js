@@ -5,6 +5,6 @@ function triangle(length) {
   }
 }
 
-triangle(100);
-forward(100);
-triangle(100);
+triangle(50);
+forward(50);
+triangle(50);

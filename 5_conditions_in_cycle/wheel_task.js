@@ -6,7 +6,7 @@ Použitím příkazů
  -  right(angle) - zatoč doprava pod určitým úhlem
  nakresli kolo pomocí čtverců a trojúhelníku. Střídají se
  čtverce a trojúhelníky. Dohromady kreslí 12-úhelník.
- Polygony mají hranu 80.
+ Polygony mají hranu 30.
 
 Uděláš to jednoduše. Doplň obecnou funkci polygon, která
 bere paramater n - úhel a length - délka hrany. A uprav funkci

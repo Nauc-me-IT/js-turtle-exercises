@@ -14,4 +14,4 @@ function triangle(length) {
   }
 }
 
-triangle(100);
+triangle(50);

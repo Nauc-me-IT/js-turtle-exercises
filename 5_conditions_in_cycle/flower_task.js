@@ -7,7 +7,7 @@ Použitím příkazů
  -  left(angle) - zatoč doleva pod určitým úhlem
  nakresli kytičku pomocí čtverců a pětiúhelníků. Lístky kytičky
  jsou do 12-úhelníku a střídají se čtverce a pětiúhelníky.
- Lístečky mají hranu 50 kroků.
+ Lístečky mají hranu 25 kroků.
 
 Uděláš to jednoduše. Doplň obecnou funkci polygon, která bere
 paramater n - úhel a length - délka hrany. A uprav for cyklus.

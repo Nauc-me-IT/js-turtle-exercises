@@ -5,7 +5,7 @@ Použitím příkazů
  -  forward(steps) - jdi dopředu určitý počet kroků
  -  right(angle) - zatoč doprava pod určitým úhlem
 nakresli domeček, který se skládá ze čtverce a trojúhelníku.
-Polygony mají hranu 100.
+Polygony mají hranu 50.
 
 Uděláš to jednoduše. Doplň obecnou funkci polygon a uprav
 její použití.

@@ -7,10 +7,10 @@ function polygon(n, length) {
 
 for (let i = 0; i < 12; i++) {
   if (i % 2 == 0) {
-    polygon(3, 80);
+    polygon(3, 30);
   } else {
-    polygon(4, 80);
+    polygon(4, 30);
   }
-  forward(50);
+  forward(30);
   right(360 / 12);
 }
