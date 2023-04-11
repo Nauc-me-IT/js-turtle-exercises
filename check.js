@@ -22,7 +22,6 @@ function CompareCanvasWithImage() {
     height
   );
 
-  console.log(result);
   diffContext.putImageData(diff, 0, 0);
 }
 

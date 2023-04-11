@@ -26,7 +26,7 @@ function pixelmatch(img1, img2, output, width, height, options) {
     throw new Error('Image sizes do not match.');
 
   if (img1.length !== width * height * 4)
-    console.log(img1.length, width * height * 4);
+    throw new Error('Image size does not match expected size.');
 
   options = Object.assign({}, defaultOptions, options);
 
