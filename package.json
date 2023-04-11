@@ -1,0 +1,6 @@
+{
+  "name": "js-turtle-exercises",
+  "scripts": {
+    "dev": "npx serve"
+  }
+}
