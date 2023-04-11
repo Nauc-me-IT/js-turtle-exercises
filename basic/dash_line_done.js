@@ -1,9 +1,0 @@
-forward(30);
-penup();
-forward(20);
-pendown();
-forward(30);
-penup();
-forward(20);
-pendown();
-forward(30);
