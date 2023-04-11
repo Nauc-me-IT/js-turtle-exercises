@@ -7,7 +7,7 @@ Použitím příkazů
  nakresli písmeno B, které se skládá ze 2 trojúhelníků
  o hraně 50 kroků.
 
- Uděláš to jednoduše. Doplň funkci triangle, která nakreslí
+ Uděláš to jednoduše. Uprav funkci triangle, která nakreslí
  trojuhelník - bříško písmena B. Poté z toho poskládej písmeno B.
 */
 

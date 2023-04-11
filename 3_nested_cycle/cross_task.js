@@ -15,7 +15,7 @@ a obal to celé dalším for cyklem.
 forward(100);
 right(90);
 forward(100);
-right(91);
+right(90);
 forward(100);
 right(90);
 right(180);

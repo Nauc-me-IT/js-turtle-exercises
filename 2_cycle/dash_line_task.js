@@ -1,5 +1,5 @@
 /*
-Nakresli 4 čary!
+Nakresli 4 čáry!
 
 Použitím příkazů
  -  forward(steps) - jdi dopředu určitý počet kroků
