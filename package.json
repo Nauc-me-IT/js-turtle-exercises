@@ -1,6 +1,6 @@
 {
   "name": "js-turtle-exercises",
   "scripts": {
-    "dev": "npx serve"
+    "dev": "npx light-server -s . -w '**/*_task.js'"
   }
 }
